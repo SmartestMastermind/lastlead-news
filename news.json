@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "2026-10-11-welcome",
+      "date": "2026-10-11",
+      "type": "announcement",
+      "title": "Welcome to Last Lead",
+      "body": "News, updates and new videos will show up right here.",
+      "pinned": false
+    }
+  ]
+}
