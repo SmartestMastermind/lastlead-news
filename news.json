@@ -2,14 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "2026-10-11-welcome",
-      "date": "2026-10-11",
-      "type": "announcement",
-      "title": "Welcome to Last Lead",
-      "body": "News, updates and new videos will show up right here.",
-      "pinned": false
-    },
-    {
       "id": "2026-10-22-voting-test-1",
       "date": "2026-10-22",
       "type": "poll",
