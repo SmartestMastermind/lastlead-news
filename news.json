@@ -1,4 +1,21 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "2026-10-22-voting-test-3",
+      "date": "2026-10-22",
+      "type": "poll",
+      "title": "Voting Test #3",
+      "body": "This is a Voting Test that is testing how fast players receive this message, and whether any lag is produced.",
+      "poll": {
+        "id": "2026-10-22-voting-test-3",
+        "options": [
+          "Test #1",
+          "Test #2",
+          "Test #3"
+        ],
+        "closes": ""
+      }
+    }
+  ]
 }
