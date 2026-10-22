@@ -10,14 +10,6 @@
       "pinned": false
     },
     {
-      "id": "2026-10-12-last-lead-post-2",
-      "date": "2026-10-12",
-      "type": "update",
-      "title": "Last Lead Post #2",
-      "body": "This is a test announcement for Last Lead as another system is now in place to make these news articles. This is just a test.",
-      "image": "images/2026-10-12-last-lead-post-2.jpg"
-    },
-    {
       "id": "2026-10-22-voting-test-1",
       "date": "2026-10-22",
       "type": "poll",
