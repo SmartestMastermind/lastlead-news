@@ -1,21 +1,4 @@
 {
   "version": 1,
-  "items": [
-    {
-      "id": "2026-10-22-voting-test-2",
-      "date": "2026-10-22",
-      "type": "poll",
-      "title": "Voting Test #2",
-      "body": "This is Voting Test #2 (Voting Test #1 failed)",
-      "poll": {
-        "id": "2026-10-22-voting-test-2",
-        "options": [
-          "Test #1",
-          "Test #2",
-          "Test #3"
-        ],
-        "closes": ""
-      }
-    }
-  ]
+  "items": []
 }
